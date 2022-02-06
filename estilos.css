@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+#boton1{
+    text-align: center;
+    margin: 20;
+}
+
+p{
+    text-align: center;
+}
+
+#imagen{
+    display: block;
+    margin: 0px auto;
+}
+
+#tarjeta{
+    align-items: center;
+
+    
+}
+
